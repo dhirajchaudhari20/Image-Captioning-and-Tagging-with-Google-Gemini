@@ -1,7 +1,4 @@
 # Image Captioning and Tagging with Google Gemini
-<p align="center">
-  <img src='https://github.com/Sgvkamalakar/ImageTagger/assets/103712713/f4024d1a-0573-4859-9f16-81c710742bd8' alt="Image" width="300" height="300">
-</p>
 
 
 
@@ -50,7 +47,7 @@ CodeSmith harnesses the power of [Google's Gemini](https://cloud.google.com/gemi
 
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sgvkamalakar)
+[LinkedIn]([https://www.linkedin.com/in/sgvkamalakar](https://www.linkedin.com/in/dhirajchaudhari20/))
 
 
 
